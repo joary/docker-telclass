@@ -1,0 +1,3 @@
+[submodule "telclass"]
+	path = telclass
+	url = https://github.com/joary/telclass
